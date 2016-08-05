@@ -1,6 +1,3 @@
-# MyExpenseTracker
-This assignment requires you to build a GUI based Java application called MyExpenseTracker. This application helps the user to keep track of their expenses.
-
 NAME: ANUSHA GOVINDAN-W1167283
 IDE - Eclipse Luna
 JAVA VERSION - java 8
@@ -37,5 +34,4 @@ PROJECT SETUP
 4.Please follow the screenshots for running the project.
 
 x----------------------------------------------------------------------------------------------x
-
 
