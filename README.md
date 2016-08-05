@@ -1,6 +1,6 @@
 # MyExpenseTracker
 
-NAME: ANUSHA GOVINDAN-W1167283
+NAME: ANUSHA GOVINDAN
 IDE - Eclipse Luna
 JAVA VERSION - java 8
 PERSISTENCE USED:MYSQL/JDBC
@@ -11,11 +11,17 @@ MyExpenseTracker allows the user to store a value for a limit on the amount of m
 
 The Graphic User Interface of the application should provide facilities for the user to do the following:
 1.	Enter an amount, the expense limit, either per day or for a period of time (a week or a month). You must provide options to set either by day, or by month or from a specific date to a specific date. A button to save the amount for the expense limit and duration.
+
 2.	Provide categories of expenses (eg: food, eating out, clothes, entertainment, gas etc).
+
 3.	Enter an amount spent under the selected category. If the amount entered results in the total expenses thus far to exceed the expense limit (set for the day, for the example), shows an alert that expense limit is exceeded by the amount.
+
 4.	Select to see money spent under each category.
+
 5.	Select to see how much is spent (that day) thus far under a chosen (input by the user) category.  
+
 6.	Select to see how much is spent (for a period of time, selected by the user) thus far under a chosen category.  
+
 7.	Select to see a visualization of the expenses (under each category) compared to the expense limit.
 
 DATABASE SETUP
